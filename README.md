@@ -83,6 +83,8 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajanpatel5&show_icons=true&theme=github_dark" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajanpatel5&layout=compact&theme=github_dark" height="170" />
